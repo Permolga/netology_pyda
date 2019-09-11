@@ -1,0 +1,332 @@
+FCI group,Breed,2014,2015,2016,2017,2018
+FCI 8,Labrador Retriever,1884,1992,2032,2125,2195
+FCI 5,Finnish Lapponian Dog,1161,1229,1281,1181,1464
+FCI 5,Swedish Elkhound,1455,1611,1322,1649,1394
+FCI 1,German Shepherd Dog,1413,1364,1271,1302,1211
+FCI 8,Golden Retriever,1237,1352,1196,1150,1174
+FCI 6,Finnish Hound,1409,1616,1584,1364,1151
+FCI 1,Shetland Sheepdog,1072,1049,918,1098,1015
+FCI 5,Karelian Bear Dog,633,675,760,693,900
+FCI 5,Norwegian Elkhound Grey,890,809,921,771,846
+FCI 3,Jack Russell Terrier,772,950,876,929,826
+FCI 2,Miniature Schnauzers,883,836,762,908,816
+FCI 5,Siberian Husky,618,597,529,548,699
+FCI 4,"Dachshund, Standard Wire-haired",688,640,674,668,690
+FCI 8,Cocker Spaniel,679,754,631,747,675
+FCI 9,Tibetan Spaniel,763,626,743,655,635
+FCI 5,Finnish Spitz,598,624,737,588,612
+FCI 1,Collie Rough,535,537,497,515,569
+FCI 9,Coton de Tuléar,534,502,514,572,552
+FCI 9,Havanese,493,576,587,518,552
+FCI 5,Mittelspitz (Medium size Spitz),503,553,566,544,533
+FCI 9,Chihuahua Smooth Coat,776,700,662,548,524
+FCI 1,Border Collie,524,491,502,510,516
+FCI 9,Cavalier King Charles Spaniel,616,528,556,409,506
+FCI 5,Kleinspitz (Miniature Spitz),439,455,485,500,495
+FCI 9,Chihuahua Long Coat,672,634,523,512,484
+FCI 8,Spanish Waterdog,420,404,457,435,459
+FCI 9,Bichon Frise,542,512,494,440,439
+FCI 9,French Bulldog,474,540,448,472,416
+FCI 9,Miniature Poodles,461,440,402,434,402
+FCI 2,Rottweiler,296,366,334,377,388
+FCI 3,Staffordshire Bull Terrier,406,386,423,420,377
+FCI 6,Beagle,482,542,552,449,373
+FCI 2,Bernese Mountain Dog,494,513,412,462,361
+FCI 1,Welsh Corgi Cardigan,263,285,277,334,354
+FCI 4,"Dachshund, Standard Smooth-haired",283,239,299,308,349
+FCI 5,Lapponian Herder,282,250,233,341,337
+FCI 9,Pug,374,332,304,346,336
+FCI 8,Lagotto Romagnolo,327,322,334,350,327
+FCI 5,Norrbottenspitz,392,377,388,406,324
+FCI 9,Chinese Crested Dog,353,387,317,327,321
+FCI 3,Cairn Terrier,385,316,365,286,313
+FCI 2,Great Dane,270,236,215,251,306
+FCI 9,Medium Size Poodles,318,292,310,269,299
+FCI 3,West Highland White Terrier,355,323,307,254,296
+FCI 2,Miniature Pinscher,356,343,309,285,295
+FCI 1,Welsh Corgi Pembroke,229,246,305,216,293
+FCI 1,Australian Shepherd,328,321,291,315,287
+FCI 8,Flat Coated Retriever,279,228,226,223,266
+FCI 3,Parson Russell Terrier,348,333,326,319,263
+FCI 1,White Swiss Shepherd Dog,269,297,235,267,259
+FCI 8,Nova Scotia Duck Tolling Retriever,331,274,246,327,253
+FCI 7,German Wire-haired Pointer,254,348,278,332,245
+FCI 1,"German Shepherd Dog, long and harsh outer coat",138,247,206,242,240
+FCI 4,"Dachshund, Standard Long-haired",206,157,244,196,240
+FCI 7,German Short-haired Pointer,297,221,278,317,234
+FCI 8,English Springer Spaniel,276,316,241,278,234
+FCI 5,Pomeranian,220,203,234,261,234
+FCI 3,Yorkshire Terrier,262,295,264,233,233
+FCI 2,German Boxers,249,236,286,205,230
+FCI 10,Whippet,230,258,270,317,218
+FCI 1,Collie Smooth,149,213,172,160,214
+FCI 5,East Siberian Laika,251,270,286,219,208
+FCI 9,Boston Terrier,257,265,231,264,205
+FCI 5,Samoyed,177,247,196,269,204
+FCI 2,Dobermann,162,93,186,184,202
+FCI 9,Papillon,218,217,160,219,200
+FCI 2,Leonberger,201,230,226,176,197
+FCI 3,Border Terrier,210,196,196,257,194
+FCI 4,"Dachshund, Miniature Smooth-haired",155,161,189,153,194
+FCI 6,Dalmatian,153,135,127,208,192
+FCI 9,Tibetan Terrier,151,125,139,159,192
+FCI 1,"Belgian Shepherd Dog, Malinois",218,227,187,148,187
+FCI 6,Swedish Dachsbracke,146,214,177,232,186
+FCI 4,"Dachshund, Miniature Long-haired",201,143,159,182,184
+FCI 7,Irish Red Setter,191,235,247,144,183
+FCI 2,Danish-Swedish Farm Dog,137,118,151,152,177
+FCI 3,American Staffordshire Terrier,239,128,191,188,173
+FCI 8,Welsh Springer Spaniel,199,220,237,182,173
+FCI 9,Toy Poodles,199,201,169,164,170
+FCI 2,Newfoundland,197,119,139,125,169
+FCI 4,"Dachshund, Miniature Wire-haired",135,185,168,148,165
+FCI 5,Swedish Vallhund,110,102,140,137,140
+FCI 2,Hovawart,183,177,134,190,139
+FCI 5,Alaskan Malamute,130,196,150,182,138
+FCI 3,Australian Terrier,156,162,175,149,137
+FCI 3,"Fox Terrier, Smooth-haired",104,127,120,155,136
+FCI 3,German Hunting Terrier,141,109,125,168,135
+FCI 9,Standard Poodle,90,84,139,131,129
+FCI 1,Lancashire Heeler,124,126,96,112,129
+FCI 5,Wolfspitz (Keeshond),88,118,115,130,128
+FCI 1,"Belgian Shepherd Dog, Tervueren",134,183,147,104,126
+FCI 2,Bullmastiff,172,126,198,160,125
+FCI 6,American Fox Hound,140,161,110,140,124
+FCI 7,Brittany,144,81,102,132,124
+FCI 5,Japanese Spitz,165,156,155,112,124
+FCI 3,Norwich Terrier,125,89,130,76,123
+FCI 9,Bolognese,94,125,139,161,122
+FCI 2,Bulldog,203,157,207,198,121
+FCI 10,Irish Wolfhound,152,120,106,177,119
+FCI 2,Standard Schnauzers,76,148,90,116,118
+FCI 5,Shiba,70,75,87,97,116
+FCI 9,Maltese,74,78,112,70,116
+FCI 3,Soft Coated Wheaten Terrier,124,85,153,63,116
+FCI 2,Giant Schnauzers,182,124,94,143,115
+FCI 2,Pyrenean Mastiff,97,113,100,97,110
+FCI 7,Frisian Pointing Dog,43,60,63,84,109
+FCI 1,Australian Kelpie,86,87,101,132,108
+FCI 5,American Akita,128,125,118,113,107
+FCI 3,Brazilian Terrier,58,123,105,105,107
+FCI 2,Italian Corso Dog,122,56,84,89,107
+FCI 8,Portuguese Water Dog,143,144,85,131,106
+FCI 1,"Belgian Shepherd Dog, Groenendael",138,97,102,162,105
+FCI 5,Chow Chow,77,116,136,117,105
+FCI 1,Schipperke,102,103,117,107,105
+FCI 1,Schapendoes,84,99,104,100,101
+FCI 6,Rhodesian Ridgeback,77,64,102,81,101
+FCI 9,Shih Tzu,88,106,86,112,100
+FCI 8,kooikerhondje,65,105,95,95,100
+FCI 7,Gordon Setter,119,98,106,70,98
+FCI 5,Akita,67,76,100,122,96
+FCI 2,Landseer Continental-European Type,80,59,76,73,95
+FCI 9,Lhasa Apso,82,64,71,64,93
+FCI 6,Russian Hound,141,100,135,145,92
+FCI 8,American Cocker Spaniel,85,95,73,86,92
+FCI 3,Scottish Terrier,29,74,63,44,88
+FCI 8,French Water Dog,56,47,40,58,87
+FCI 9,Small Brabant Griffon,64,66,47,65,80
+FCI 10,Italian Greyhound,70,73,74,96,79
+FCI 10,Saluki,106,94,95,103,78
+FCI 3,English Toy Terrier,51,90,53,83,78
+FCI 2,Pyrenean Mountain Dog,54,31,81,53,78
+FCI 6,Plott,91,38,104,32,78
+FCI 9,Russian Toy,111,97,100,110,77
+FCI 5,Eurasier,85,66,109,74,74
+FCI 9,Russkaja Tsvetnaja Bolonka,18,29,43,57,74
+FCI 10,Afghan Hound,48,53,44,64,73
+FCI 1,Beauceron,135,77,66,76,71
+FCI 3,"Fox Terrier, Wire-haired",92,59,78,102,70
+FCI 2,Tibetan Mastiff,94,103,80,84,70
+FCI 1,Mudi,37,36,46,22,70
+FCI 5,Basenji,61,69,68,51,69
+FCI 3,Norfolk Terrier,78,116,62,62,67
+FCI 7,English Setter,49,87,94,47,67
+FCI 2,Saint Bernard Long-haired,55,77,30,78,66
+FCI 9,Japanese Chin,73,86,56,60,65
+FCI 9,Prague Ratter,47,39,37,49,65
+FCI 3,American Hairless Terrier,,,163,184,64
+FCI 1,"Dutch Shepherd Dog, Short-haired",34,50,35,32,62
+FCI 3,Miniature Bull Terrier,60,55,77,49,60
+FCI 5,West Siberian Laika,40,49,43,44,60
+FCI 5,Icelandic Sheepdog,65,44,60,44,59
+FCI 1,Pumi,74,70,54,32,56
+FCI 3,Airedale Terrier,49,51,31,64,54
+FCI 9,Brussels Griffon,37,54,67,36,54
+FCI 8,Field Spaniel,47,68,51,79,53
+FCI 3,Australian Silky Terrier,83,91,73,69,53
+FCI 2,Caucasian Shepherd Dog,41,60,41,31,52
+FCI 10,Deerhound,35,29,10,26,52
+FCI 9,Phalène,87,84,43,41,51
+FCI 6,Petit Basset Griffon Vendeen,32,42,44,33,50
+FCI 3,Manchester Terrier,31,41,34,23,50
+FCI 1,Maremma and Abruzzes Sheepdog,24,64,55,74,49
+FCI 5,Portuguese Warren Dog Miniature Smooth-haired,81,57,57,65,49
+FCI 10,Borzoi,94,47,67,54,49
+FCI 2,German Pinscher,52,73,67,83,48
+FCI 9,Kromfohrländer,53,32,38,25,46
+FCI 3,Irish Terrier,27,48,23,23,45
+FCI 1,Australian Cattle Dog,19,25,47,16,45
+FCI 7,Small Munsterlander,58,36,28,47,44
+FCI 1,Tatra Shepherd Dog,48,33,28,13,44
+FCI 1,Bearded Collie,26,32,36,57,43
+FCI 6,Basset Hound,37,47,54,56,43
+FCI 4,"Rabbit Dachshund, Wire-haired",43,37,60,51,43
+FCI 3,Glen Of Imaal Terrier,54,69,48,53,42
+FCI 1, ,30,32,49,56,41
+FCI 5,Portuguese Warren Dog Miniature Wire-haired,40,33,28,35,41
+FCI 8,Curly Coated Retriever,35,27,47,46,40
+FCI 1,Flanders Cattle Dog,22,44,41,48,39
+FCI 2,Black Terrier,38,61,37,27,39
+FCI 5,Peruvian Hairless Medium-sized,9,19,8,22,39
+FCI 6,Basset fauve de Bretagne,52,31,44,32,38
+FCI 7,Pointer,23,32,35,27,37
+FCI 4,"Rabbit Dachshund, Long-haired",38,47,54,34,36
+FCI 2,Dogo Canario,42,44,41,48,35
+FCI 5,Russian-European Laika,25,37,47,34,35
+FCI 2,Broholmer,15,8,21,34,35
+FCI 2,Saint Bernard Short-haired,23,28,27,39,34
+FCI 2,Dogo Argentino,22,38,29,32,34
+FCI 7,Weimaraner,29,43,40,14,34
+FCI 7,German Rough-haired Pointer,20,11,15,9,34
+FCI 10,Greyhound,63,19,68,78,33
+FCI 2,Appenzell Cattle Dog,39,49,25,45,33
+FCI 3,Bull Terrier,59,54,61,34,31
+FCI 5,Cirneco dell'Etna,33,29,53,29,31
+FCI 5,Volpino Italiano,32,21,25,34,30
+FCI 5,Swedish Elkhound White,20,47,27,45,29
+FCI 4,"Rabbit Dachshund, Smooth-haired",47,30,30,38,29
+FCI 3,Bedlington Terrier,23,33,27,31,29
+FCI 8,German Spaniel,31,26,47,28,29
+FCI 7,Hungarian Short-haired Pointing Dog,37,23,40,28,29
+FCI 9,Little Lion Dog,17,31,37,23,29
+FCI 3,Dandie Dinmont Terrier,41,34,33,14,28
+FCI 1,Polish Lowland Sheepdog,8,15,20,10,28
+FCI 1,Briard,31,26,22,35,27
+FCI 2,Dogue de Bordeaux,35,57,41,20,27
+FCI 1,Old English Sheepdog,50,40,35,17,26
+FCI 1,"Dutch Shepherd Dog, Long-haired",31,15,35,25,25
+FCI 9,Belgian Griffon,30,12,17,21,25
+FCI 9,Pekingese,46,67,30,24,24
+FCI 1,Pyrenean sheepdog Long-haired,20,31,30,23,24
+FCI 9,King Charles Spaniel,17,19,17,23,24
+FCI 1,Portuguese Sheepdog,19,30,9,21,22
+FCI 2,Entlebuch Cattle Dog,3,20,36,13,22
+FCI 1,Slovakian Chuvach,26,10,29,23,21
+FCI 5,Kai,2,5,7,13,21
+FCI 7,Large Munsterlander,18,,4,11,21
+FCI 2,Tosa,1,3,9,6,20
+FCI 7,Bourbonnais Pointing Dog,3,7,13,4,20
+FCI 2,Central Asian Shepherd Dog,43,50,3,42,19
+FCI 2,Tornjak,10,2,3,1,19
+FCI 1,Saarloos Wolfdog,23,14,39,39,18
+FCI 1,Czeslovakian Wolfdog,27,21,24,25,18
+FCI 7,Hungarian Wire-haired Pointing Dog,16,9,1,17,18
+FCI 2,Great Swiss Mountain Dog,20,13,26,6,18
+FCI 2,Mastiff,13,20,47,20,17
+FCI 8,Irish Water Spaniel,11,13,7,10,17
+FCI 6,Artesian-Norman Basset,,7,12,15,16
+FCI 6,Grand Basset Griffon Vendeen,16,11,18,14,16
+FCI 7,Italian Wire-haired Pointing Dog,21,11,16,13,16
+FCI 3,Skye Terrier,33,55,31,63,15
+FCI 3,Welsh Terrier,8,26,13,22,15
+FCI 5,Mexican Hairless Dogs,13,22,10,18,15
+FCI 3,Lakeland Terrier,11,13,17,14,15
+FCI 5,Peruvian Hairless Miniature,27,11,11,8,15
+FCI 2,Shar Pei,46,23,38,55,14
+FCI 6,Estonian Hound,38,45,52,33,14
+FCI 5,Norwegian Buhund,9,19,19,4,14
+FCI 7,Italian Pointing Dog,13,10,13,18,13
+FCI 8,Clumber Spaniel,27,11,32,15,13
+FCI 5,Norwegian Lundehund,12,13,9,11,13
+FCI 2,Affen Pinscher,30,35,24,35,12
+FCI 5,Kishu,9,10,5,24,12
+FCI 1,Pyrenean Sheepdog Smooth-faced,21,14,7,22,12
+FCI 6,Bavarian Mountain Scenthound,6,,4,3,12
+FCI 3,Cesky Terrier,15,8,34,1,12
+FCI 1,"Dutch Shepherd Dog, Rough-Haired",,10,11,26,11
+FCI 3,Sealyham Terrier,10,1,8,5,11
+FCI 3,Kerry Blue Terrier,42,20,51,24,10
+FCI 1,Pulis,28,25,9,20,10
+FCI 10,Hungarian Greyhound,11,13,5,14,10
+FCI 7,Irish Red & White Setter,13,23,8,2,10
+FCI 1,East-European Shepherd,,,5,38,9
+FCI 6,Posavski Gonic,7,6,11,11,8
+FCI 7,Braque d'Auvergne,7,,1,7,8
+FCI 5,Swedish Lapphund,5,8,10,4,8
+FCI 5,Hällefors Dog,3,4,7,1,8
+FCI 5,Shikoku,1,2,10,13,7
+FCI 1,Berger Picard,3,3,1,8,7
+FCI 1,South Russian Shepherd Dog,5,11,1,1,7
+FCI 5,Pharaoh Hound,10,19,14,24,6
+FCI 5,Ibizan Hounds,6,21,2,17,6
+FCI 6,Petit Bleu de Gascogne,2,1,1,11,6
+FCI 2,Azores Cattle Dog,1,4,,6,6
+FCI 1,Kuvasz,1,1,4,3,5
+FCI 8,American Water Spaniel,,8,,,5
+FCI 10,Azawakh,2,,7,10,4
+FCI 1,"Belgian Shepherd Dog, Laekenois",2,11,,1,4
+FCI 10,Arabian Greyhound,11,7,5,39,3
+FCI 10,Polish Greyhound,11,2,3,22,3
+FCI 5,Peruvian Hairless Large,9,9,12,9,3
+FCI 8,Chesapeake Bay Retriever,3,16,7,7,3
+FCI 2,Yugoslavian Shepherd Dog-Sharplanina,2,,8,5,3
+FCI 2,Spanish Mastiff,6,5,2,2,3
+FCI 5,Canaan Dog,2,,5,,3
+FCI 5,Hokkaido,1,4,2,,3
+FCI 5, ,,,,,3
+FCI 3,American Toy Fox Terrier,,3,6,25,2
+FCI 2,Serra da estrela Mountain Dogs,25,17,8,16,2
+FCI 5,Giant Spitz,,13,6,10,2
+FCI 7,Blue Picardy Spaniel,,1,1,7,2
+FCI 6,Anglo-Russian Hound,,,,7,2
+FCI 6,Italian Hound Coarse-haired,,11,10,2,2
+FCI 3,Rat Terrier,,,2,2,2
+FCI 3,ratonero bodeguero andaluz,,4,1,2,2
+FCI 7,French wire-haired Korthals Pointing griffon,6,9,8,1,2
+FCI 6,Blue Gascony Basset,1,1,,1,2
+FCI 5,Portuguese Warren Dog Medium Wire-haired,7,5,,,2
+FCI 6,Bosanski Ostrodlaki Gonic Barak,,2,,16,1
+FCI 6,Småland Hound,7,,7,9,1
+FCI 1,Catalan Sheepdog,1,,,8,1
+FCI 6,Poitevin,,1,,4,1
+FCI 5,Thai Ridgeback,2,13,8,1,1
+FCI 6,Norwegian Hound,1,,1,,1
+FCI 1,Komondor,,8,,,1
+FCI 6,Griffon Fauve de Bretagne,,8,,,1
+FCI 7,Slovakian Wire-haired Pointing Dog,1,6,,,1
+FCI 7,Old Danish Pointer,,1,,,1
+FCI 7, ,,,,,1
+FCI 6,Lucerne Hound,,,,,1
+FCI 6,Coarse-haired Istrian Hound,2,14,9,19,
+FCI 2,Uruguayan Cimarron,,1,,12,
+FCI 6,Short-haired Italian Hound,8,1,,9,
+FCI 6,Black & Tan Coon Hound,7,3,8,7,
+FCI 6,"Swiss Hound, Bernese Hound",,7,,6,
+FCI 5,Podengo Portuguese Smooth-haired Medium size,6,5,,4,
+FCI 5,Greenland Dog,3,5,9,3,
+FCI 10,Spanish Greyhound,3,1,2,3,
+FCI 2,Majorca Mastiff,,1,,3,
+FCI 1,Bergamasco Shepherd Dog,1,,4,2,
+FCI 2,Napolitan Mastiff,3,1,,2,
+FCI 6,Alpine Dachsbracke,,,2,1,
+FCI 7,Spaniel de Pont-Audemer,,8,,1,
+FCI 7,French Pointing Dog-Pyrenean type,,,,1,
+FCI 2,Aidi,,,,1,
+FCI 3,Japanese Terrier,,,,1,
+FCI 6,Porcelaine,,,,1,
+FCI 2,Fila Brasileiro,1,5,5,,
+FCI 6,Blood Hound,,18,2,,
+FCI 6,Otterhound,,10,2,,
+FCI 5,Korea Jindo Dog,,,1,,
+FCI 1,Croatian Sheepdog,,,1,,
+FCI 6,Schiller Hound,,,1,,
+FCI 5,Norwegian Elkhound Black,,,1,,
+FCI 6,"Swiss Hound, Schwyz Hound",,1,,,
+FCI 8,Sussex Spaniel,,1,,,
+FCI 5,Podengo Portuguese Smooth-haired Large,,1,,,
+FCI 6,Grand Griffon Vendéen,14,,,,
+FCI 6,Hygen Hound,1,,,,
+FCI 2,Karst Shepherd Dog,1,,,,
+FCI 7,Portuguese Pointing Dog,1,,,,
+,Total,46409,46915,46279,46611,45748
